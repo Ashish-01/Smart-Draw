@@ -1,4 +1,4 @@
-## SmartDraw WebApp by CNN using TensorFlow and Flask
+﻿## SmartDraw WebApp by CNN using TensorFlow and Flask
 A Flask WebApp for recognising scrambled images using Convolution Neural Network. And getting the voice as well as text prediction.
 
 ![gif](./snapshots/snapshots.gif)
